@@ -120,7 +120,7 @@ export default function Home() {
               className="bg-white p-8 rounded-xl shadow-sm hover:shadow-lg transition-all duration-300"
             >
               <div className="relative h-48 mb-6 rounded-lg overflow-hidden">
-                <Image
+          <Image
                   src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1000&auto=format&fit=crop"
                   alt="AI Teacher Assistant"
                   fill
@@ -138,7 +138,7 @@ export default function Home() {
               className="bg-white p-8 rounded-xl shadow-sm hover:shadow-lg transition-all duration-300"
             >
               <div className="relative h-48 mb-6 rounded-lg overflow-hidden">
-                <Image
+          <Image
                   src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=1000&auto=format&fit=crop"
                   alt="Smart Homework Evaluation"
                   fill
@@ -156,7 +156,7 @@ export default function Home() {
               className="bg-white p-8 rounded-xl shadow-sm hover:shadow-lg transition-all duration-300"
             >
               <div className="relative h-48 mb-6 rounded-lg overflow-hidden">
-                <Image
+          <Image
                   src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&w=1000&auto=format&fit=crop"
                   alt="AI-Powered Grading"
                   fill
