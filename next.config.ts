@@ -3,7 +3,6 @@ import type { NextConfig } from "next";
 /** @type {import('next').NextConfig} */
 const nextConfig: NextConfig = {
   output: 'export',
-  basePath: '/skooler-website',
   images: {
     remotePatterns: [
       {
@@ -11,6 +10,7 @@ const nextConfig: NextConfig = {
         hostname: 'images.unsplash.com',
       },
     ],
+    unoptimized: true,
   },
 };
 
